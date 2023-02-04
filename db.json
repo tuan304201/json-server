@@ -30,12 +30,12 @@
     "products":
 [
     {
-        "id": '6cfc32e2-a475-11ed-a8fc-0242ac120002',
+        "id": "6cfc32e2-a475-11ed-a8fc-0242ac120002",
         "categoryId": 1,
-        "img": 'https://tocotocotea.com/wp-content/uploads/2022/10/tra-man-hat-sen.png',
-        "title": 'Trà Mận Hạt Sen',
+        "img": "https://tocotocotea.com/wp-content/uploads/2022/10/tra-man-hat-sen.png",
+        "title": "Trà Mận Hạt Sen",
         "price": 31000,
-        "oldPrice": '48000đ',
+        "oldPrice": "48000đ",
     }
 ]
 }
